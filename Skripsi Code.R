@@ -1,4 +1,4 @@
-#Statistika Deskriptif
+#Descriptive Statistics
 library(dplyr)
 library(amap)
 library(fpc)
